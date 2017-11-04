@@ -2,7 +2,7 @@
 
 ## This is a graphics project done a requirement of my under graduate course CSE4208. 
 
-![alt text](https://imgur.com/a/LnqCz "Game running")
+![alt text](https://imgur.com/a/9ty2V "Game running")
 
 
 
